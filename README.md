@@ -58,7 +58,7 @@ Transcript → Parser → Agent (LangGraph Loop) → Tool Calls → Validation �
 ### Clone & Setup
 
 ```
-git clone https://github.com/karthikgarikina/AI-degree-planning-assistant
+git clone https://github.com/SivajiSingiri1619/AI-degree-planning-assistant
 cd AI-degree-planning-assistant
 cp .env.example .env
 ```
